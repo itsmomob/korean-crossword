@@ -1,182 +1,39 @@
 [
-  {
-    "word": "사과",
-    "level": 1,
-    "pos": "명사",
-    "definition_ko": "빨갛고 둥근 과일. 맛이 달고 아삭하다.",
-    "example_ko": "아침에 사과를 먹었다.",
-    "collocations": ["사과를 먹다"],
-    "tags": ["음식", "과일"]
-  },
-  {
-    "word": "바다",
-    "level": 1,
-    "pos": "명사",
-    "definition_ko": "짠 물이 넓게 펼쳐진 곳. 파도가 있다.",
-    "example_ko": "여름에 바다에서 수영을 했다.",
-    "collocations": ["바다를 보다"],
-    "tags": ["자연"]
-  },
-  {
-    "word": "학교",
-    "level": 1,
-    "pos": "명사",
-    "definition_ko": "학생이 공부를 배우는 곳.",
-    "example_ko": "학교에 걸어서 갔다.",
-    "collocations": ["학교에 가다"],
-    "tags": ["장소"]
-  },
-  {
-    "word": "친구",
-    "level": 1,
-    "pos": "명사",
-    "definition_ko": "가깝게 지내는 사람.",
-    "example_ko": "친구와 같이 놀았다.",
-    "collocations": ["친구를 만나다"],
-    "tags": ["사람", "관계"]
-  },
-  {
-    "word": "하늘",
-    "level": 1,
-    "pos": "명사",
-    "definition_ko": "위를 올려다보면 보이는 넓은 곳. 낮에는 파랗다.",
-    "example_ko": "하늘이 맑고 파랗다.",
-    "collocations": ["하늘이 맑다"],
-    "tags": ["자연"]
-  },
-  {
-    "word": "물",
-    "level": 1,
-    "pos": "명사",
-    "definition_ko": "마시거나 씻을 때 쓰는 맑은 액체.",
-    "example_ko": "목이 말라서 물을 마셨다.",
-    "collocations": ["물을 마시다"],
-    "tags": ["자연", "음식"]
-  },
-  {
-    "word": "밥",
-    "level": 1,
-    "pos": "명사",
-    "definition_ko": "쌀을 익혀서 만든 음식. 끼니로 먹는다.",
-    "example_ko": "저녁에 밥을 먹었다.",
-    "collocations": ["밥을 먹다"],
-    "tags": ["음식"]
-  },
-  {
-    "word": "책",
-    "level": 1,
-    "pos": "명사",
-    "definition_ko": "글과 그림이 여러 장 모여 있는 것. 읽는다.",
-    "example_ko": "책을 읽으면서 하루를 보냈다.",
-    "collocations": ["책을 읽다"],
-    "tags": ["사물"]
-  },
-  {
-    "word": "집",
-    "level": 1,
-    "pos": "명사",
-    "definition_ko": "사람이 살거나 쉬는 곳.",
-    "example_ko": "집에 일찍 돌아왔다.",
-    "collocations": ["집에 가다"],
-    "tags": ["장소"]
-  },
-  {
-    "word": "꽃",
-    "level": 1,
-    "pos": "명사",
-    "definition_ko": "식물에서 피는, 색과 향이 있는 부분.",
-    "example_ko": "봄이 되자 꽃이 피었다.",
-    "collocations": ["꽃이 피다"],
-    "tags": ["자연"]
-  },
-  {
-    "word": "달",
-    "level": 1,
-    "pos": "명사",
-    "definition_ko": "밤하늘에 뜨는 둥근 천체. 빛이 밝다.",
-    "example_ko": "밤에 달이 밝게 떴다.",
-    "collocations": ["달이 뜨다"],
-    "tags": ["자연"]
-  },
-  {
-    "word": "해",
-    "level": 1,
-    "pos": "명사",
-    "definition_ko": "낮에 하늘에 뜨는, 밝고 뜨거운 천체.",
-    "example_ko": "아침에 해가 떠올랐다.",
-    "collocations": ["해가 뜨다"],
-    "tags": ["자연"]
-  },
-  {
-    "word": "눈",
-    "level": 1,
-    "pos": "명사",
-    "definition_ko": "얼굴에 있는, 보는 데 쓰는 기관.",
-    "example_ko": "눈으로 하늘을 바라보았다.",
-    "collocations": ["눈을 감다"],
-    "tags": ["신체"]
-  },
-  {
-    "word": "손",
-    "level": 1,
-    "pos": "명사",
-    "definition_ko": "팔 끝에 있는, 물건을 잡는 데 쓰는 부분.",
-    "example_ko": "손으로 문을 열었다.",
-    "collocations": ["손을 씻다"],
-    "tags": ["신체"]
-  },
-  {
-    "word": "발",
-    "level": 1,
-    "pos": "명사",
-    "definition_ko": "다리 끝에 있는, 서거나 걸을 때 쓰는 부분.",
-    "example_ko": "발이 아파서 잠깐 앉았다.",
-    "collocations": ["발이 아프다"],
-    "tags": ["신체"]
-  },
-  {
-    "word": "물고기",
-    "level": 1,
-    "pos": "명사",
-    "definition_ko": "물속에 살면서 헤엄치는 동물.",
-    "example_ko": "강에서 물고기를 잡았다.",
-    "collocations": ["물고기를 잡다"],
-    "tags": ["동물"]
-  },
-  {
-    "word": "새",
-    "level": 1,
-    "pos": "명사",
-    "definition_ko": "날개가 있어서 하늘을 나는 동물.",
-    "example_ko": "새가 나무 위에서 울었다.",
-    "collocations": ["새가 날다"],
-    "tags": ["동물"]
-  },
-  {
-    "word": "나무",
-    "level": 1,
-    "pos": "명사",
-    "definition_ko": "줄기와 가지가 있고 잎이 달리는 큰 식물.",
-    "example_ko": "마당에 나무를 심었다.",
-    "collocations": ["나무를 심다"],
-    "tags": ["자연"]
-  },
-  {
-    "word": "비",
-    "level": 1,
-    "pos": "명사",
-    "definition_ko": "구름에서 떨어지는 물방울.",
-    "example_ko": "아침부터 비가 내렸다.",
-    "collocations": ["비가 오다"],
-    "tags": ["날씨"]
-  },
-  {
-    "word": "바람",
-    "level": 1,
-    "pos": "명사",
-    "definition_ko": "공기가 움직여서 느껴지는 것.",
-    "example_ko": "창문을 여니 바람이 들어왔다.",
-    "collocations": ["바람이 불다"],
-    "tags": ["날씨"]
-  }
+  { "word": "사과", "level": 1, "pos": "명사", "definition_ko": "빨갛고 둥근 과일. 맛이 달고 아삭하다.", "example_ko": "아침에 사과를 먹었다.", "collocations": ["사과를 먹다"], "tags": ["음식"] },
+  { "word": "사람", "level": 1, "pos": "명사", "definition_ko": "생각하고 말하는 동물.", "example_ko": "사람이 많아서 복잡했다.", "collocations": ["사람이 많다"], "tags": ["사람"] },
+  { "word": "과일", "level": 1, "pos": "명사", "definition_ko": "나무에서 열리는, 먹을 수 있는 것.", "example_ko": "시장에서 과일을 샀다.", "collocations": ["과일을 사다"], "tags": ["음식"] },
+  { "word": "일요일", "level": 1, "pos": "명사", "definition_ko": "한 주의 마지막 날. 쉬는 날.", "example_ko": "일요일에 친구를 만났다.", "collocations": ["일요일에 쉬다"], "tags": ["시간"] },
+  { "word": "요리", "level": 1, "pos": "명사", "definition_ko": "음식을 만드는 일.", "example_ko": "어머니가 요리를 잘한다.", "collocations": ["요리를 하다"], "tags": ["음식"] },
+  { "word": "생일", "level": 1, "pos": "명사", "definition_ko": "태어난 날.", "example_ko": "오늘은 내 생일이다.", "collocations": ["생일을 축하하다"], "tags": ["시간"] },
+  { "word": "생선", "level": 1, "pos": "명사", "definition_ko": "먹을 수 있게 만든 물고기.", "example_ko": "저녁에 생선을 구웠다.", "collocations": ["생선을 굽다"], "tags": ["음식"] },
+  { "word": "선생님", "level": 1, "pos": "명사", "definition_ko": "학생을 가르치는 사람.", "example_ko": "선생님이 친절하시다.", "collocations": ["선생님을 만나다"], "tags": ["사람"] },
+  { "word": "어머니", "level": 1, "pos": "명사", "definition_ko": "나를 낳아 주신 여자 어른.", "example_ko": "어머니가 밥을 하셨다.", "collocations": ["어머니를 돕다"], "tags": ["사람"] },
+
+  { "word": "시간", "level": 1, "pos": "명사", "definition_ko": "흐르는 동안의 길이.", "example_ko": "시간이 빨리 지나갔다.", "collocations": ["시간이 지나다"], "tags": ["시간"] },
+  { "word": "간식", "level": 1, "pos": "명사", "definition_ko": "끼니 사이에 먹는 음식.", "example_ko": "오후에 간식을 먹었다.", "collocations": ["간식을 먹다"], "tags": ["음식"] },
+  { "word": "식당", "level": 1, "pos": "명사", "definition_ko": "음식을 만들어 파는 곳.", "example_ko": "점심에 식당에서 밥을 먹었다.", "collocations": ["식당에 가다"], "tags": ["장소"] },
+  { "word": "당근", "level": 1, "pos": "명사", "definition_ko": "주황색이고 길쭉한 채소.", "example_ko": "당근을 잘게 썰었다.", "collocations": ["당근을 썰다"], "tags": ["음식"] },
+  { "word": "시계", "level": 1, "pos": "명사", "definition_ko": "시간을 알려 주는 물건.", "example_ko": "시계를 보고 시간을 확인했다.", "collocations": ["시계를 보다"], "tags": ["사물"] },
+  { "word": "계절", "level": 1, "pos": "명사", "definition_ko": "봄, 여름, 가을, 겨울처럼 나뉜 때.", "example_ko": "계절이 바뀌었다.", "collocations": ["계절이 바뀌다"], "tags": ["자연"] },
+
+  { "word": "학교", "level": 1, "pos": "명사", "definition_ko": "학생이 공부를 배우는 곳.", "example_ko": "학교에 걸어서 갔다.", "collocations": ["학교에 가다"], "tags": ["장소"] },
+  { "word": "교실", "level": 1, "pos": "명사", "definition_ko": "학교에서 공부하는 방.", "example_ko": "교실에 학생이 많다.", "collocations": ["교실에 들어가다"], "tags": ["장소"] },
+  { "word": "실수", "level": 1, "pos": "명사", "definition_ko": "잘못한 일.", "example_ko": "내 실수로 일이 늦어졌다.", "collocations": ["실수를 하다"], "tags": ["행동"] },
+  { "word": "수업", "level": 1, "pos": "명사", "definition_ko": "학생이 배우는 시간.", "example_ko": "오늘 수업이 재미있었다.", "collocations": ["수업을 듣다"], "tags": ["학교"] },
+  { "word": "수도", "level": 1, "pos": "명사", "definition_ko": "나라를 다스리는 중심 도시.", "example_ko": "서울은 한국의 수도다.", "collocations": ["수도에 가다"], "tags": ["사회"] },
+  { "word": "도시", "level": 1, "pos": "명사", "definition_ko": "사람이 많이 모여 사는 곳.", "example_ko": "도시는 사람이 많다.", "collocations": ["도시에 살다"], "tags": ["사회"] },
+
+  { "word": "일기", "level": 1, "pos": "명사", "definition_ko": "하루 동안 있었던 일을 적은 글.", "example_ko": "밤에 일기를 썼다.", "collocations": ["일기를 쓰다"], "tags": ["생활"] },
+  { "word": "기차", "level": 1, "pos": "명사", "definition_ko": "선로 위를 달리는 긴 탈것.", "example_ko": "기차를 타고 여행했다.", "collocations": ["기차를 타다"], "tags": ["교통"] },
+  { "word": "차표", "level": 1, "pos": "명사", "definition_ko": "차를 타기 위해 사는 표.", "example_ko": "역에서 차표를 샀다.", "collocations": ["차표를 사다"], "tags": ["교통"] },
+
+  { "word": "한국", "level": 1, "pos": "명사", "definition_ko": "우리가 사는 나라.", "example_ko": "한국은 사계절이 있다.", "collocations": ["한국에 살다"], "tags": ["사회"] },
+  { "word": "한국어", "level": 1, "pos": "명사", "definition_ko": "한국 사람들이 쓰는 말.", "example_ko": "한국어를 공부하고 있다.", "collocations": ["한국어를 배우다"], "tags": ["언어"] },
+  { "word": "국수", "level": 1, "pos": "명사", "definition_ko": "밀가루로 만든 긴 음식.", "example_ko": "점심에 국수를 먹었다.", "collocations": ["국수를 먹다"], "tags": ["음식"] },
+
+  { "word": "나라", "level": 1, "pos": "명사", "definition_ko": "사람들이 모여 사는 큰 땅.", "example_ko": "우리 나라는 아름답다.", "collocations": ["나라를 사랑하다"], "tags": ["사회"] },
+  { "word": "나무", "level": 1, "pos": "명사", "definition_ko": "줄기와 가지가 있고 잎이 달리는 큰 식물.", "example_ko": "마당에 나무를 심었다.", "collocations": ["나무를 심다"], "tags": ["자연"] },
+  { "word": "바다", "level": 1, "pos": "명사", "definition_ko": "짠 물이 넓게 펼쳐진 곳.", "example_ko": "여름에 바다에서 수영을 했다.", "collocations": ["바다를 보다"], "tags": ["자연"] },
+  { "word": "바지", "level": 1, "pos": "명사", "definition_ko": "다리에 입는 옷.", "example_ko": "새 바지를 입었다.", "collocations": ["바지를 입다"], "tags": ["옷"] },
+  { "word": "바람", "level": 1, "pos": "명사", "definition_ko": "공기가 움직여서 느껴지는 것.", "example_ko": "창문을 여니 바람이 들어왔다.", "collocations": ["바람이 불다"], "tags": ["날씨"] }
 ]

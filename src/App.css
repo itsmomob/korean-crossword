@@ -1,0 +1,134 @@
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  font-family: -apple-system, "Apple SD Gothic Neo", "Noto Sans KR", sans-serif;
+  background: #f7f7f5;
+  color: #1a1a1a;
+}
+
+.app {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 32px 20px;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 26px;
+  letter-spacing: -0.02em;
+}
+header p {
+  margin: 6px 0 28px;
+  color: #777;
+  font-size: 14px;
+}
+
+.layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 340px;
+  gap: 32px;
+  align-items: start;
+}
+
+@media (max-width: 820px) {
+  .layout { grid-template-columns: 1fr; }
+}
+
+.grid-wrap {
+  display: flex;
+  justify-content: center;
+}
+
+.grid {
+  display: grid;
+  gap: 2px;
+  background: #2b2b2b;
+  padding: 3px;
+  border-radius: 6px;
+  width: min(80vmin, 560px);
+}
+
+.cell {
+  position: relative;
+  background: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 2px;
+  user-select: none;
+  overflow: hidden;
+}
+
+.cell.block {
+  background: transparent;
+}
+
+.cell-num {
+  position: absolute;
+  top: 3px;
+  left: 4px;
+  font-size: clamp(8px, 1.2vmin, 11px);
+  font-weight: 500;
+  color: #888;
+  line-height: 1;
+}
+
+.cell-ch {
+  font-size: clamp(14px, 2.4vmin, 22px);
+  font-weight: 600;
+  color: #111;
+}
+
+.clues {
+  background: #fff;
+  border-radius: 10px;
+  padding: 20px 22px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.06);
+}
+
+.clues button {
+  width: 100%;
+  padding: 11px;
+  background: #1a1a1a;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  font-size: 14px;
+  font-family: inherit;
+  cursor: pointer;
+}
+.clues button:hover { background: #333; }
+
+.clues h2 {
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: #999;
+  margin: 24px 0 10px;
+}
+
+.clue-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  font-size: 14px;
+  line-height: 1.6;
+}
+
+.clue-list li {
+  display: flex;
+  gap: 10px;
+  padding: 4px 0;
+  align-items: baseline;
+}
+
+.clue-num {
+  min-width: 20px;
+  font-weight: 600;
+  color: #666;
+  font-variant-numeric: tabular-nums;
+  font-size: 13px;
+}
+
+.clue-text { flex: 1; }

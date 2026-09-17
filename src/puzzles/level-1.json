@@ -1,0 +1,150 @@
+{
+  "level": 1,
+  "width": 8,
+  "height": 5,
+  "grid": [
+    [
+      null,
+      "한",
+      "실",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "한",
+      "국",
+      "수",
+      "도",
+      "시",
+      "간",
+      "식",
+      "당"
+    ],
+    [
+      null,
+      "어",
+      "업",
+      null,
+      "계",
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      "머",
+      null,
+      null,
+      "절",
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      "니",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  ],
+  "entries": [
+    {
+      "answer": "국수",
+      "clue_ko": "밀가루로 만든 긴 음식.",
+      "direction": "across",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "answer": "수업",
+      "clue_ko": "학생이 배우는 시간.",
+      "direction": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "answer": "수도",
+      "clue_ko": "나라를 다스리는 중심 도시.",
+      "direction": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "answer": "한국어",
+      "clue_ko": "한국 사람들이 쓰는 말.",
+      "direction": "down",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "answer": "도시",
+      "clue_ko": "사람이 많이 모여 사는 곳.",
+      "direction": "across",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "answer": "시간",
+      "clue_ko": "흐르는 동안의 길이.",
+      "direction": "across",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "answer": "시계",
+      "clue_ko": "시간을 알려 주는 물건.",
+      "direction": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "answer": "계절",
+      "clue_ko": "봄, 여름, 가을, 겨울처럼 나뉜 때.",
+      "direction": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "answer": "실수",
+      "clue_ko": "잘못한 일.",
+      "direction": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "answer": "한국",
+      "clue_ko": "우리가 사는 나라.",
+      "direction": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "answer": "어머니",
+      "clue_ko": "나를 낳아 주신 여자 어른.",
+      "direction": "down",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "answer": "간식",
+      "clue_ko": "끼니 사이에 먹는 음식.",
+      "direction": "across",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "answer": "식당",
+      "clue_ko": "음식을 만들어 파는 곳.",
+      "direction": "across",
+      "row": 1,
+      "col": 6
+    }
+  ]
+}
