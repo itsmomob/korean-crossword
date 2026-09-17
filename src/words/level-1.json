@@ -1,0 +1,182 @@
+[
+  {
+    "word": "사과",
+    "level": 1,
+    "pos": "명사",
+    "definition_ko": "빨갛고 둥근 과일. 맛이 달고 아삭하다.",
+    "example_ko": "아침에 사과를 먹었다.",
+    "collocations": ["사과를 먹다"],
+    "tags": ["음식", "과일"]
+  },
+  {
+    "word": "바다",
+    "level": 1,
+    "pos": "명사",
+    "definition_ko": "짠 물이 넓게 펼쳐진 곳. 파도가 있다.",
+    "example_ko": "여름에 바다에서 수영을 했다.",
+    "collocations": ["바다를 보다"],
+    "tags": ["자연"]
+  },
+  {
+    "word": "학교",
+    "level": 1,
+    "pos": "명사",
+    "definition_ko": "학생이 공부를 배우는 곳.",
+    "example_ko": "학교에 걸어서 갔다.",
+    "collocations": ["학교에 가다"],
+    "tags": ["장소"]
+  },
+  {
+    "word": "친구",
+    "level": 1,
+    "pos": "명사",
+    "definition_ko": "가깝게 지내는 사람.",
+    "example_ko": "친구와 같이 놀았다.",
+    "collocations": ["친구를 만나다"],
+    "tags": ["사람", "관계"]
+  },
+  {
+    "word": "하늘",
+    "level": 1,
+    "pos": "명사",
+    "definition_ko": "위를 올려다보면 보이는 넓은 곳. 낮에는 파랗다.",
+    "example_ko": "하늘이 맑고 파랗다.",
+    "collocations": ["하늘이 맑다"],
+    "tags": ["자연"]
+  },
+  {
+    "word": "물",
+    "level": 1,
+    "pos": "명사",
+    "definition_ko": "마시거나 씻을 때 쓰는 맑은 액체.",
+    "example_ko": "목이 말라서 물을 마셨다.",
+    "collocations": ["물을 마시다"],
+    "tags": ["자연", "음식"]
+  },
+  {
+    "word": "밥",
+    "level": 1,
+    "pos": "명사",
+    "definition_ko": "쌀을 익혀서 만든 음식. 끼니로 먹는다.",
+    "example_ko": "저녁에 밥을 먹었다.",
+    "collocations": ["밥을 먹다"],
+    "tags": ["음식"]
+  },
+  {
+    "word": "책",
+    "level": 1,
+    "pos": "명사",
+    "definition_ko": "글과 그림이 여러 장 모여 있는 것. 읽는다.",
+    "example_ko": "책을 읽으면서 하루를 보냈다.",
+    "collocations": ["책을 읽다"],
+    "tags": ["사물"]
+  },
+  {
+    "word": "집",
+    "level": 1,
+    "pos": "명사",
+    "definition_ko": "사람이 살거나 쉬는 곳.",
+    "example_ko": "집에 일찍 돌아왔다.",
+    "collocations": ["집에 가다"],
+    "tags": ["장소"]
+  },
+  {
+    "word": "꽃",
+    "level": 1,
+    "pos": "명사",
+    "definition_ko": "식물에서 피는, 색과 향이 있는 부분.",
+    "example_ko": "봄이 되자 꽃이 피었다.",
+    "collocations": ["꽃이 피다"],
+    "tags": ["자연"]
+  },
+  {
+    "word": "달",
+    "level": 1,
+    "pos": "명사",
+    "definition_ko": "밤하늘에 뜨는 둥근 천체. 빛이 밝다.",
+    "example_ko": "밤에 달이 밝게 떴다.",
+    "collocations": ["달이 뜨다"],
+    "tags": ["자연"]
+  },
+  {
+    "word": "해",
+    "level": 1,
+    "pos": "명사",
+    "definition_ko": "낮에 하늘에 뜨는, 밝고 뜨거운 천체.",
+    "example_ko": "아침에 해가 떠올랐다.",
+    "collocations": ["해가 뜨다"],
+    "tags": ["자연"]
+  },
+  {
+    "word": "눈",
+    "level": 1,
+    "pos": "명사",
+    "definition_ko": "얼굴에 있는, 보는 데 쓰는 기관.",
+    "example_ko": "눈으로 하늘을 바라보았다.",
+    "collocations": ["눈을 감다"],
+    "tags": ["신체"]
+  },
+  {
+    "word": "손",
+    "level": 1,
+    "pos": "명사",
+    "definition_ko": "팔 끝에 있는, 물건을 잡는 데 쓰는 부분.",
+    "example_ko": "손으로 문을 열었다.",
+    "collocations": ["손을 씻다"],
+    "tags": ["신체"]
+  },
+  {
+    "word": "발",
+    "level": 1,
+    "pos": "명사",
+    "definition_ko": "다리 끝에 있는, 서거나 걸을 때 쓰는 부분.",
+    "example_ko": "발이 아파서 잠깐 앉았다.",
+    "collocations": ["발이 아프다"],
+    "tags": ["신체"]
+  },
+  {
+    "word": "물고기",
+    "level": 1,
+    "pos": "명사",
+    "definition_ko": "물속에 살면서 헤엄치는 동물.",
+    "example_ko": "강에서 물고기를 잡았다.",
+    "collocations": ["물고기를 잡다"],
+    "tags": ["동물"]
+  },
+  {
+    "word": "새",
+    "level": 1,
+    "pos": "명사",
+    "definition_ko": "날개가 있어서 하늘을 나는 동물.",
+    "example_ko": "새가 나무 위에서 울었다.",
+    "collocations": ["새가 날다"],
+    "tags": ["동물"]
+  },
+  {
+    "word": "나무",
+    "level": 1,
+    "pos": "명사",
+    "definition_ko": "줄기와 가지가 있고 잎이 달리는 큰 식물.",
+    "example_ko": "마당에 나무를 심었다.",
+    "collocations": ["나무를 심다"],
+    "tags": ["자연"]
+  },
+  {
+    "word": "비",
+    "level": 1,
+    "pos": "명사",
+    "definition_ko": "구름에서 떨어지는 물방울.",
+    "example_ko": "아침부터 비가 내렸다.",
+    "collocations": ["비가 오다"],
+    "tags": ["날씨"]
+  },
+  {
+    "word": "바람",
+    "level": 1,
+    "pos": "명사",
+    "definition_ko": "공기가 움직여서 느껴지는 것.",
+    "example_ko": "창문을 여니 바람이 들어왔다.",
+    "collocations": ["바람이 불다"],
+    "tags": ["날씨"]
+  }
+]
