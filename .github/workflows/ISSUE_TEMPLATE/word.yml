@@ -1,0 +1,31 @@
+name: New word
+description: Suggest a new Korean word entry
+title: "[word] "
+labels: ["vocabulary"]
+body:
+  - type: input
+    id: word
+    attributes:
+      label: 단어
+      placeholder: 행복
+    validations:
+      required: true
+  - type: dropdown
+    id: level
+    attributes:
+      label: Level
+      options: ["1", "2", "3", "4", "5", "6"]
+    validations:
+      required: true
+  - type: textarea
+    id: definition
+    attributes:
+      label: 한국어 정의
+    validations:
+      required: true
+  - type: textarea
+    id: example
+    attributes:
+      label: 예문
+    validations:
+      required: true
